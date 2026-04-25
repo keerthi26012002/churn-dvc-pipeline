@@ -1,0 +1,5 @@
+outs:
+- md5: ef8fde0f7cf4f558f37086a35b91fc35
+  size: 976925
+  hash: md5
+  path: Telecom Customer Churn.csv
